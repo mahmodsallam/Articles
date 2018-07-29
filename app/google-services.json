@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700212491371",
+    "firebase_url": "https://articles-efdde.firebaseio.com",
+    "project_id": "articles-efdde",
+    "storage_bucket": "articles-efdde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700212491371:android:7d32af2982542692",
+        "android_client_info": {
+          "package_name": "mahmoudmostafa.com.articles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700212491371-d3vkq47assp9i8pn4079ni87kgs0mk4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mahmoudmostafa.com.articles",
+            "certificate_hash": "4239c324f5c19e564650c06569fd7a2a64887c7a"
+          }
+        },
+        {
+          "client_id": "700212491371-ecptsibhtkv6dnl5c5mhdh1p4u18u5jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDasrtArpvdPcfk3-NGQez6A1qyZBSWWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700212491371-ecptsibhtkv6dnl5c5mhdh1p4u18u5jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

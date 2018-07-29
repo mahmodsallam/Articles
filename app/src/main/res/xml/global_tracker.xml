@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="ga_sessionTimeout">300</integer>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <screenName name="com.bigknol.SocialShare">
+        Social Share Screen
+    </screenName>
+    <screenName name="com.bigknol.About">
+        About App Screen
+    </screenName>
+
+    <string name="ga_trackingId">UA-114686478-1</string>
+</resources>

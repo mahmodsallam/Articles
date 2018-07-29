@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/bbc_news"
+        android:title="@string/bbc_news" />
+    <item
+        android:id="@+id/bbc_sport"
+        android:title="@string/bbc_sport" />
+    <item
+        android:id="@+id/cnn"
+        android:title="@string/cnn" />
+    <item
+        android:id="@+id/google"
+        android:title="@string/google" />
+
+    <item
+        android:id="@+id/NAG"
+        android:title="@string/national_geographic" />
+    <item
+        android:id="@+id/sky_news"
+        android:title="@string/sky_news" />
+
+    <item
+        android:id="@+id/reddit"
+        android:title="@string/reddit" />
+
+    <item
+        android:id="@+id/cnb"
+        android:title="@string/cnb" />
+
+    <item
+        android:id="@+id/entertainment"
+        android:title="@string/entertainment" />
+
+    <item
+        android:id="@+id/NewScientist"
+        android:title="@string/new_scientist" />
+
+</menu>

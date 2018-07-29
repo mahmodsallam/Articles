@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Articles</string>
+    <string name="welcome_message">Live articles around the World</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="bbc_news">BBC News</string>
+    <string name="bbc_sport">BBC Sport</string>
+    <string name="cnn">CNN</string>
+    <string name="google">Google</string>
+    <string name="national_geographic">NATIONAL GEOGRAPHIC</string>
+    <string name="sky_news">SKY NEWS</string>
+    <string name="reddit">REDDIT</string>
+    <string name="cnb">CNB</string>
+    <string name="entertainment">ENTERTAINMENT</string>
+    <string name="new_scientist">New Scientist</string>
+    <string name="todo">TODO</string>
+    <string name="articles">Articles</string>
+    <string name="live_articles_around_the_world">Live articles around the world</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="trcking_id">UA-114686478-1</string>
+    <string name="bookMarkAlert">Book mark Added Successfully</string>
+</resources>
